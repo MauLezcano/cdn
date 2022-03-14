@@ -6,6 +6,11 @@
   --color-white: #fff;
 }
 
+html {
+  font-family: var(--font-family);
+  color: var(--color-black);
+}
+
 button[class="btn"] {
   padding: 8px 10px;
   border: none;
